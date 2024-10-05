@@ -1,1 +1,2 @@
-# tech-with-code-1
+# tech-with-code
+author-kavya upadhyaya
